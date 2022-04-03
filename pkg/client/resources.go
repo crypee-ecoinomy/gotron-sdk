@@ -1,9 +1,9 @@
 package client
 
 import (
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/common"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/proto/api"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/proto/core"
 )
 
 // GetAccountResource from BASE58 address

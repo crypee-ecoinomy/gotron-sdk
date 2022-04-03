@@ -6,12 +6,12 @@ import (
 	"io/ioutil"
 	"math"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
-	"github.com/fbsobreira/gotron-sdk/pkg/client/transaction"
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/contract"
-	"github.com/fbsobreira/gotron-sdk/pkg/keystore"
-	"github.com/fbsobreira/gotron-sdk/pkg/store"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/address"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/client/transaction"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/common"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/contract"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/keystore"
+	"github.com/crypee-ecoinomy/gotron-sdk/pkg/store"
 
 	"github.com/spf13/cobra"
 )
